@@ -1,5 +1,5 @@
 {
-  "name": "alexsabur/orchid-editorjs-field",
+  "name": "NewindForks/orchid-editorjs',
   "description": "A orchid editorjs field",
   "license": "MIT",
   "keywords": [
@@ -10,8 +10,8 @@
   "type": "library",
   "authors": [
     {
-      "name": "Alex",
-      "email": "alexsabur@live.ru"
+      "name": "Newind",
+      "email": "nickibelov@yandex.ru"
     }
   ],
   "require": {
